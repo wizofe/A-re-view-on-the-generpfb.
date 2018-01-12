@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: '800'
+web-width: 200
 export-width: 
 align: center
 float: h!
@@ -9,7 +9,7 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - url: "/users/8850/articles/172749/master/file/figures/mass/mass.png"
+  - url: "/users/224017/articles/279518/master/file/figures/mass/mass.png"
     path: figures/mass/mass.png
     type: static
     from:
@@ -18,3 +18,4 @@ grid:
     to:
     - 1
     - 1
+    folder_url: "/users/224017/articles/279518/master/folder/figures/mass"

@@ -6,3 +6,9 @@ figures/Screen Shot 2018-01-18 at 22-29-04
 552ov3o0v2g.html
 82qmpc74dmc.html
 figures/string_normal_image
+lhbhqg0bfe.html
+krkg25o4nig.html
+umk0b358788.html
+vh3080ns4qo.html
+pmpm0cnmlf8.html
+5i4fe1ukpa8.html

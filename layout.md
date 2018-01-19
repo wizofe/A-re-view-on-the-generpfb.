@@ -9,4 +9,3 @@ figures/string_normal_image (1)
 pmpm0cnmlf8.html
 figures/Screen Shot 2018-01-19 at 21-17-50
 2q8gkh3bor8.html
-scbhpfjrgm.html

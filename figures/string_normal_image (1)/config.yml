@@ -1,7 +1,7 @@
 ---
 version: 2
 multicolumn: false
-web-width: 500px
+web-width: 800
 align: center
 float: h!
 grid:
@@ -17,3 +17,5 @@ grid:
     - 1
     - 1
     url: "/users/224017/articles/279518/master/file/figures/string_normal_image%20(1)/string_normal_image%20(1).png"
+    folder_url: "/users/224017/articles/279518/master/folder/figures/string_normal_image
+      (1)"
